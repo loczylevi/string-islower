@@ -1,1 +1,1 @@
-# string-islower
+# string-islower / isupper / isascii
