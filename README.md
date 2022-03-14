@@ -1,1 +1,1 @@
-# string-islower / isupper / isascii
+# string-islower / isupper / isascii / isalpha --> hasznalat
